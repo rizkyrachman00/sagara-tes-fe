@@ -1,5 +1,4 @@
 import bgHero from "@/assets/bg-hero.png";
-import Image from "next/image";
 
 export const Hero = () => {
   return (
@@ -7,6 +6,7 @@ export const Hero = () => {
       style={{ backgroundImage: `url(${bgHero.src})` }}
       className="bg-cover bg-center bg-no-repeat py-5 md:py-12 lg:py-[200px] overflow-x-clip"
       // bg-[radial-gradient(ellipse_200%_100%_at_bottom_left,#A51535,#ffffff_66%)]
+      // [mask-image:linear-gradient(to_right,transparent,black,transparent)]
     >
       <div className="container py-7 pr-[20vw] md:pr-[40vw] lg:pr-[40vw] max-w-fit">
         <div className="text-white items-center">
