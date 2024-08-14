@@ -19,7 +19,7 @@ export const Header = () => {
                 </a>
                 <a href="">FAQ</a>
               </div>
-              <button className="bg-[#A51535] text-white px-9 py-2 rounded-lg font-medium inline-flex items-center justify-center tracking-tighter">
+              <button className="bg-[#A51535] text-white px-9 py-2 rounded-[4px] font-medium inline-flex items-center justify-center tracking-tighter">
                 SIGN IN
               </button>
             </nav>
