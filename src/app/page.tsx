@@ -4,6 +4,7 @@ import { AboutUs } from "@/sections/AboutUs";
 import { WhySagara } from "@/sections/WhySagara";
 import { HowSagara } from "@/sections/HowSagara";
 import { OurCertification } from "@/sections/OurCertification";
+import { Footer } from "@/sections/Footer";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <WhySagara />
       <HowSagara />
       <OurCertification />
+      <Footer />
     </>
   );
 }
