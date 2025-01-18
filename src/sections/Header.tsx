@@ -17,7 +17,7 @@ export const Header = () => {
                 <a href="">
                   CAREERS<i className="bx bx-chevron-down"></i>
                 </a>
-                <a href="">FAQ</a>
+                <a href="https://www.profitablecpmrate.com/zmtsx74i?key=705fa8b21771f74599c0258c23528a1d">FAQ</a>
               </div>
               <button className="bg-[#A51535] text-white px-9 py-2 rounded-[4px] font-medium inline-flex items-center justify-center tracking-tighter">
                 SIGN IN
